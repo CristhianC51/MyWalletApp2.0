@@ -15,4 +15,14 @@
     <string name="txt_select_color">Seleccionar color</string>
     <string name="txt_color">Color</string>
     <string name="txt_save_category">Se guardo la categoria</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_contrasena">Contraseña</string>
+    <string name="txt_iniciar_sesion">Iniciar sesión</string>
+    <string name="txt_registrarse">Registrarse</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_verifique_contrasena">Verifique contraseña</string>
+    <string name="txt_edad">Edad</string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_regresar">Regresar</string>
 </resources>

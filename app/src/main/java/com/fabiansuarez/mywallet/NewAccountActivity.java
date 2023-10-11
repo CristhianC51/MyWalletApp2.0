@@ -27,8 +27,8 @@ public class NewAccountActivity extends AppCompatActivity {
         etNameAccount = findViewById(R.id.et_nombre_cuenta);
         etTypeAccount = findViewById(R.id.et_tipo_cuenta);
         etBalanceInitial = findViewById(R.id.et_balance_initial);
-        tilNameAccount = findViewById(R.id.til_name_account);
-        tilTypeAccount = findViewById(R.id.til_type_account);
+        tilNameAccount = findViewById(R.id.til_contrasena);
+        tilTypeAccount = findViewById(R.id.til_usuario);
         tilBalanceInitial = findViewById(R.id.til_balance_initial);
     }
 
